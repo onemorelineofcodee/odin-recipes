@@ -1,0 +1,22 @@
+
+
+html {
+    background-color: aqua;
+}
+h1 {
+    margin : 20px auto ;
+    text-align: center;
+    background-color: burlywood;
+}
+
+li {
+    margin : 10px 20px ;
+    padding: 10px;
+}
+
+li a {
+    display : inline-block ; 
+    width : 150px ;
+    height : 25px ;
+    background-color: aquamarine;
+}
